@@ -6,6 +6,8 @@ O tipo de banco de dados utilizado no projeto foi o **banco de dados relacionais
 
 No projeto, foi utilizado o **SQLite**, uma biblioteca C que fornece um banco de dados leve baseado em disco, não requerendo um processo de servidor separado e permitindo o acesso ao banco de dados usando uma variante não padrão da linguagem de consulta SQL. O SQLite é útil para prototipar aplicativos, e posteriormente, o código pode ser portado para um banco de dados maior, como PostgreSQL ou Oracle.
 
-Para facilitar o trabalho, foi utilizado o **DB Browser for SQLite** , uma ferramenta visual de código aberto que permite criar, projetar e editar arquivos de banco de dados compatíveis com o SQLite. Essa ferramenta possui uma interface familiar semelhante a uma planilha, dispensando a necessidade de aprender comandos SQL complicados. Ao final do projeto, foi possível criar uma tabela, conectar-se ao banco de dados e executar operações como enviar, inserir e trazer valores na tabela.
+Para facilitar o trabalho, foi utilizado o **DB Browser for SQLite** , uma ferramenta visual de código aberto que permite criar, projetar e editar arquivos de banco de dados compatíveis com o SQLite. Essa ferramenta possui uma interface familiar semelhante a uma planilha, dispensando a necessidade de aprender comandos SQL complicados. Ao final do projeto, foi possível criar uma tabela, conectar-se ao banco de dados e executar operações como enviar, inserir e trazer valores na tabela. Site da documentação oficial: https://docs.python.org/3/library/sqlite3.html .
+
+
 
 
